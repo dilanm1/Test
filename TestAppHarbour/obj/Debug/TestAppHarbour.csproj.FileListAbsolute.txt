@@ -1,0 +1,4 @@
+c:\users\bigiron\documents\visual studio 2010\Projects\TestAppHarbour\TestAppHarbour\bin\TestAppHarbour.dll
+c:\users\bigiron\documents\visual studio 2010\Projects\TestAppHarbour\TestAppHarbour\bin\TestAppHarbour.pdb
+c:\users\bigiron\documents\visual studio 2010\Projects\TestAppHarbour\TestAppHarbour\obj\Debug\TestAppHarbour.dll
+c:\users\bigiron\documents\visual studio 2010\Projects\TestAppHarbour\TestAppHarbour\obj\Debug\TestAppHarbour.pdb
